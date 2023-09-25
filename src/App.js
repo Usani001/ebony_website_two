@@ -48,7 +48,7 @@ function App() {
   return (
     <Routes>
       <Route path="/aboutPage" element={<AboutUsDesktop />} />
-      <Route path="/homePage" element={<HomePageDesktop />} />
+      <Route path="/" element={<HomePageDesktop />} />
       <Route path="/productPage" element={<ProductDesktop />} />
       <Route path="/contactPage" element={<ContactPageDesktop />} />
     </Routes>
