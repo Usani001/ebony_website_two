@@ -1,2 +1,2 @@
 # ebony_website_two
-Website foe Ebony Foods and Beverages
+Website for Ebony Foods and Beverages
